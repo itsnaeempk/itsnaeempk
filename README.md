@@ -14,7 +14,7 @@
  <a href="https://linkedin.com/in/thisnaeem">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://instagram.com/isthisnaeem">
+  <a href="https://instagram.com/thisnaeem">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   <a href="https://twitter.com/thisnaeem">
